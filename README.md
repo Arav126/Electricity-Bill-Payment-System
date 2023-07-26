@@ -1,2 +1,5 @@
 # Electricity-Bill-Payment-System
-A Java based project
+
+UG 3rd Sem Project submitted on Nov 2021
+
+A Java Based Project for Electricity Bill Management.
